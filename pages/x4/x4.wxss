@@ -1,0 +1,70 @@
+.purpleX{
+  color: orange;
+  font-size: 24px;
+  font-weight:bold;
+  text-align: center;
+}
+.fir{
+  margin-top: 25px;
+  color: lightsalmon;
+  font-size: 20px;
+}
+.fir1{
+  color: coral;
+  font-size: 20px;
+  margin-top: 5px;
+}
+.sec{
+  margin-top: 5px;
+  color: darkkhaki;
+  font-size: 20px;
+}
+.thi{
+  margin-top: 5px;
+  color: khaki;
+  font-size: 20px;
+}
+.fou{
+  margin-top: 5px;
+  color: orangered;
+  font-size: 20px;
+}
+.fif{
+  margin-top: 25px;
+  color: navy;
+  font-size: 20px;
+}
+.six{
+  margin-top: 3px;
+  color: mediumspringgreen;
+  font-size: 18px;
+}
+.sev{
+  margin-top: 5px;
+  color: olive;
+  font-size: 18px;
+}
+.eig{
+  margin-top: 5px;
+  color: red;
+  font-size: 20px;
+}
+.nin{
+  margin-top: 5px;
+  color: deepskyblue;
+  font-size: 20px;
+}
+.ten{
+  color: rgb(15, 15, 15);
+  font-weight:bold;
+  font-size: 15px;
+}
+.ele{
+  margin-top: 10px;
+  color: rgb(15, 15, 15);
+  font-weight:bold;
+  font-size: 15px;
+}
+.p1{
+  width: 100%;  height: 100%;  position:fixed;   background-size:100% 100%;  z-index: -1;
+}

@@ -1,0 +1,30 @@
+<image class="p1" src="/images/33.jpg"></image>
+<view class="purpleX">美味快餐</view>
+<view class="fir">粥类：</view>
+<text class="ten">燕麦粥 红枣枸杞粥 紫薯粥 皮蛋粥</text>
+<view class="sec">汤类：</view>
+<view class="ten">蛋花汤</view>
+<view class="thi">面点：</view>
+<view class="ten">紫薯饼 南瓜饼 豆沙饼 酱香饼 酱香饼 </view>
+<view class="ten">烧饼加鸡肉 双加饼 手抓饼 韭菜馅饼 土豆鸡蛋饼 </view>
+<view class="ten">韭菜盒子 小笼包 烧麦 猪肉白菜水饺 香菇肉水饺 </view>
+<view class="ten">韭菜鸡蛋水饺 重庆小面 牛肉面 馄饨 </view>
+<view class="fou">小吃类:</view>
+<view class="ten">寿司(紫菜包饭) 蛋挞 芝麻球 烤冷面 紫薯三明治 鸡蛋</view>
+<view class="fif">午晚餐：</view>
+<view class="six">素菜:</view>
+<view class="ten">白菜炖豆腐 豆芽炒水条 炒包菜 红烧茄子</view>
+<view class="ten">香辣土豆丝 红烧日本豆腐</view>
+<view class="sev">荤菜：</view>
+<view class="ten">青椒炒培根 蒜黄炒鸡蛋 香酥鸭 黄豆炖肉</view>
+<view class="ten">西兰花炒肉 木须肉 孜然炸鸡 糖醋肉 西红柿鸡蛋</view>
+<view class="ten">孜然香肠 青豆鸡丁 土豆片炒肉 炸鸡柳 木耳炒肉 香芹炒肉 肉沫豆角</view>
+<view class="eig">麻辣类：</view>
+<view class="ten">麻辣烫</view>
+<view class="nin">快餐类：</view>
+<view class="ten">烤肉饭+3素菜</view>
+<view class="ele">推荐：</view>
+<view class="ele">黄豆炖肉入味浓厚，酱汁鲜美，回味无穷，炖肉肥而不腻，肉与酱汁完美契合，黄豆饱满Q弹，一同食用口感更佳。
+</view>
+<view class="ele">烤肉饭：简单快捷的美食，肉汁饱满，饭与不同酱汁结合，迸发出灵魂深鸣。
+</view>

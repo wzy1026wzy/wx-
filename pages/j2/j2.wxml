@@ -1,0 +1,40 @@
+<image class="p1" src="/images/44.jpg"></image>
+<view class="purpleX">基本伙餐厅</view>
+<view class="fir">早餐：</view>
+<view class="thi">粥类：</view>
+<view class="ten">黑米粥 皮蛋瘦肉粥 </view>
+<view class="nin">饮品：</view>
+<view class="ten">豆浆</view>
+<view class="thi">面点：</view>
+<view class="ten">烧麦 肉夹馍 小笼包 油条 馅饼 鸡蛋夹饼 鸡蛋饼 </view>
+<view class="ten">火腿夹饼 肉包 素包 蒸饺 锅贴 玉米 蔬菜鸡蛋饼</view>
+<view class="fou">小吃类:</view>
+<view class="ten">豆腐脑</view>
+<view class="fif">午晚餐：</view>
+<view class="six">素菜:</view>
+<view class="ten">清炒西兰花素菜 麻辣藕片 粉丝娃娃菜 </view>
+<view class="ten">小炒千叶豆腐 三鲜玉米粒 干锅菜花</view>
+<view class="ten">香辣土豆片 鱼香茄条 白菜粉条 扒丝土豆 </view>
+<view class="ten">木耳白菜 拔丝地瓜香辣土豆片 鱼香茄条 </view>
+<view class="ten">白菜粉条 扒丝土豆
+</view>
+<view class="sev">荤菜：</view>
+<view class="ten">锅仔萝卜羊肉 黄焖鸡 尖椒肉片 烤鸭 冬瓜火腿 </view>
+<view class="ten">烤全腿 可乐鸡翅 大炖菜 乐山辣子鸡 梅菜扣肉</view>
+<view class="ten">酱爆鸭 小炒肉 红烧牛肉 奥尔良鸡排 黑椒肉片</view>
+<view class="ten">辣子鸡丁 鱼香肉丝 小炒骨肉相连  香酥鸡 </view>
+<view class="ten">清蒸鱼 红烧鱼 炸鸡柳 糖醋里脊 咸蛋黄玉米粒</view>
+<view class="ten">香酥鸭 口水鸡 土豆红烧肉 香辣里脊 </view>
+<view class="ten">黄金大鸡腿 孜然鸭腿 水蒸蛋 木耳鸡蛋 剁椒鸡蛋 </view>
+<view class="ten">黑椒牛柳 小炒五花肉</view>
+<view class="sec">汤类：</view>
+<view class="ten">老鸭汤 山药排骨汤 排骨汤</view>
+<view class="fou">小吃类:</view>
+<view class="ten">剁椒鸡蛋 蒸紫薯</view>
+<view class="thi">面点：</view>
+<view class="ten">花卷 馒头 </view>
+<view class="eig">麻辣类：</view>
+<view class="ten">麻辣香锅</view>
+<view class="ele">推荐：</view>
+<view class="ele">整体推荐，来自四川的师傅出手
+</view>

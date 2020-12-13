@@ -1,0 +1,16 @@
+<view class="purpleX">清真餐厅</view>
+<view class="fir">早餐：</view>
+<view class="nin">饮品：</view>
+<view class="ten">牛奶</view>
+<view class="fou">小吃类:</view>
+<view class="ten">素包子 油条 油饼 茶鸡蛋 椒盐饼 麻酱饼</view>
+<view class="ten">韭菜饼 玉米饼 土豆丝卷饼</view>
+<view class="fif">午晚餐：</view>
+<view class="six">素菜:</view>
+<view class="ten">干煸豆角 黄豆芽炒粉条 油菜木耳 醋溜白菜</view>
+<image class="p1" src="/images/99.jpg"></image>
+<view class="sev">荤菜：</view>
+<view class="ten">土豆牛肉 西葫芦炒鸡蛋 黑椒肉片 木耳炒鸡蛋 </view>
+<view class="ten">奥尔良腿肉 香辣肉片 西红柿炒鸡蛋 鱼香肉丝 </view>
+<view class="ten">孜然牙签肉 干锅鸡块 脆辣鸡排 </view>
+<view class="ten1">更多炒饭系列、盖浇系列等你解锁</view>

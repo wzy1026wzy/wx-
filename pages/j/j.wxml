@@ -1,0 +1,8 @@
+<view class="h1">
+<text style="font-weight: bold;font-size: 60rpx;">请选择楼层</text>
+<navigator style='display:inline' url="/pages/j1/j1" class='t2' hover-class='nav-hover'>教师食堂1楼</navigator>
+<navigator style='display:inline' url="/pages/j2/j2" class='t2' hover-class='nav-hover'>教师食堂2楼</navigator>
+<navigator style='display:inline' url="/pages/j3/j3" class='t2' hover-class='nav-hover'>教师食堂3楼</navigator>
+<navigator style='display:inline' url="/pages/j4/j4" class='t2' hover-class='nav-hover'>教师食堂4楼</navigator>
+<navigator style='display:inline' url="/pages/j5/j5" class='t2' hover-class='nav-hover'>教师食堂5楼</navigator>
+</view>

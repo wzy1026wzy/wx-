@@ -1,0 +1,9 @@
+/* pages/j/j.wxss */
+
+.t2{
+  color:blue
+}
+
+.nav-hover{
+  color:red
+}

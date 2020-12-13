@@ -1,0 +1,27 @@
+<image class="p1" src="/images/88.jpg"></image>
+<view class="purpleX">学生食堂一层</view>
+<view class="fir">早餐：</view>
+<view class="thi">粥类：</view>
+<view class="ten">紫米粥 南瓜粥</view>
+<view class="nin">饮品：</view>
+<view class="ten">豆浆 牛奶</view>
+<view class="thi">面点：</view>
+<view class="ten">肉包子 素包子 玉米饼 油条 煎蛋 双夹 手抓饼 </view>
+<view class="ten">火麻团 水煎包 小笼包 蒸饺 韭菜馅饼 炸糕 烧卖</view>
+<view class="fif">午晚餐：</view>
+<view class="six">粉类:</view>
+<view class="ten">特色米粉 酸辣粉 五谷杂粮鱼粉 过桥米线 </view>
+<view class="sev">饼类：</view>
+<view class="ten">杂粮煎饼 杂粮煎饼 鸡蛋灌饼 回味蛋肉堡 </view>
+<view class="ten">苗香掉渣饼 肉夹馍 手抓饼 烤冷面</view>
+<view class="fou">小吃类:</view>
+<view class="ten">麻辣抄手 老碗面 麻辣香锅 麻辣烫 </view>
+<view class="ten"> 馄饨 重庆小面</view>
+<view class="nin">快餐类：</view>
+<view class="ten">盖浇饭 醉骨饭 卤肉饭 烤肉拌饭 脆皮鸡饭</view>
+<view class="ten">黄焖鸡米饭 港式铁板炒饭</view>
+<view class="ele">推荐：</view>
+<view class="ele">烧卖：小巧易入口，皮薄弹牙，馅鲜有回甘
+</view>
+<view class="ele">馄饨：皮薄馅多，灵魂汤底，虾米提鲜，值得品尝！
+</view>

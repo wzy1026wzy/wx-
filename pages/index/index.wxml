@@ -1,0 +1,5 @@
+<view class="h1">
+<image class="p1" src="/images/timg.jpg"></image>
+<text style="font-weight: bold;font-size: 60rpx;">北邮食堂美食谱</text>
+<text>轻松查询北邮食堂美食分布</text>
+</view>

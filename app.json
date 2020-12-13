@@ -1,0 +1,41 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/j/j",
+    "pages/x/x",
+    "pages/j1/j1",
+    "pages/j2/j2",
+    "pages/j3/j3",
+    "pages/j4/j4",
+    "pages/j5/j5",
+    "pages/x1/x1",
+    "pages/x2/x2",
+    "pages/x3/x3",
+    "pages/x4/x4"
+  ],
+  "tabBar": {
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index",
+        "iconPath": "images/b.jpg",
+        "selectedIconPath": "images/c.jpg"
+      },
+      {
+        "text": "教师食堂",
+        "pagePath": "pages/j/j",
+        "iconPath": "images/a.jpg",
+        "selectedIconPath": "images/c.jpg"
+      },
+      {
+        "text": "学生食堂",
+        "pagePath": "pages/x/x",
+        "iconPath": "images/a.jpg",
+        "selectedIconPath": "images/c.jpg"
+      }
+    ],
+    "color": "#000",
+    "selectedColor": "#f00"
+  },
+  "sitemapLocation": "sitemap26.json"
+}

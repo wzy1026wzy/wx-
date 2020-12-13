@@ -1,0 +1,20 @@
+<image class="p1" src="/images/55.jpg"></image>
+<view class="purpleX">基本伙餐厅</view>
+<view class="fif">午晚餐：</view>
+<view class="six">素菜:</view>
+<view class="ten">炒油麦菜 小炒千页豆腐 炒油菜 西芹腐竹 炒豆芽 </view>
+<view class="ten">炒绿甘蓝 地三鲜 炒莲藕 家常豆腐 家常豆腐</view>
+<view class="ten">青椒土豆丝 溜白菜 炝炒包菜 炝炒土豆丝 </view>
+<view class="ten">红烧豆腐 麻婆豆腐 烧日本豆腐</view>
+<view class="sev">荤菜：</view>
+<view class="ten">油菜鸡蛋 油菜木耳鸡蛋 溜肉片 小炒肉 红烧鱼块 </view>
+<view class="ten">鱼香肉丝 泸州烘蛋 宫爆鸡丁 水煮肉片</view>
+<view class="ten">孜然肉丁 豇豆炒肉 香菇炒红肠 青豆鸡丁 </view>
+<view class="ten">西红柿鸡蛋 土豆牛肉 酱鸡腿 水煮鱼 梅菜扣肉 </view>
+<view class="ten"> 酱鸭子 香酥鸡腿 鲜蘑鸡蛋  糖醋里脊 粉蒸肉</view>
+<view class="ten"> 粉蒸排骨 烤鸡腿排 烤肉 烤鸭腿 西葫芦鸡蛋</view>
+<view class="ten"> 土豆鸡块 菜花炒肉</view>
+<view class="thi">面点：</view>
+<view class="ten">猪肉大葱水饺 猪肉白菜水饺 成都担担面 阳春面  </view>
+<view class="ten">重庆小面 西红柿鸡蛋面 红烧猪肉面 红烧牛肉面</view>
+<view class="ten">新疆大盘鸡面 炸酱面</view>
